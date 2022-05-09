@@ -1,5 +1,5 @@
 # Six-Bites # 
-Cateogry: Cryptography  
+Category: Cryptography  
 Difficulty: Easy  
 Challenge Author: KNOXDEV  
 Team: OsirisProtocol (https://ctftime.org/team/151343/#.Ynh0zJJAj_s.link)
